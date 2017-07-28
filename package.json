@@ -1,7 +1,7 @@
 {
   "name": "shield-study-name",
   "version": "1.0.0",
-  "description": "<description> shield study",
+  "description": "<description>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,7 +31,7 @@
     "multiprocessCompatible": true,
     "hasEmbeddedWebExtension": true,
     "creator": "Author name <author@email.com>",
-    "description": "DESCRIPTION",
+    "description": "<description>",
     "chrome": "shield-study-id"
   },
   "dependencies": {}
